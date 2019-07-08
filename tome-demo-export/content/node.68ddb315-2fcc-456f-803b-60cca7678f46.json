@@ -1,0 +1,109 @@
+{
+    "uuid": [
+        {
+            "value": "68ddb315-2fcc-456f-803b-60cca7678f46"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "ja"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "blog",
+            "target_type": "node_type",
+            "target_uuid": "7d6fdf12-3fe9-47fd-9386-f372c378fa35"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2019-07-08T07:37:04+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "4acb7144-e010-4f54-a5f5-978a4fa873a1"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "4acb7144-e010-4f54-a5f5-978a4fa873a1"
+        }
+    ],
+    "title": [
+        {
+            "value": "\u79c1\u306e\u521d\u3081\u3066\u306e\u30d6\u30ed\u30b0"
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-07-08T07:36:23+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-07-08T07:37:04+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "",
+            "pid": null,
+            "langcode": "ja"
+        }
+    ],
+    "body": [
+        {
+            "value": "<p>\u3088\u308d\u3057\u304f\u304a\u9858\u3044\u3057\u307e\u3059\u3002<\/p>\r\n",
+            "format": "basic_html",
+            "summary": ""
+        }
+    ],
+    "field_komento": [
+        {
+            "status": 2,
+            "cid": 0,
+            "last_comment_timestamp": 0,
+            "last_comment_name": "",
+            "last_comment_uid": 0,
+            "comment_count": 0
+        }
+    ],
+    "field_readingtime": [
+        {
+            "value": 2
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+uuid: 573c995b-6d83-46df-b9f5-0232390fad27
+langcode: ja
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_readingtime
+    - node.type.blog
+id: node.blog.field_readingtime
+field_name: field_readingtime
+entity_type: node
+bundle: blog
+label: 所要時間
+description: ''
+required: false
+translatable: false
+default_value:
+  -
+    value: 5
+default_value_callback: ''
+settings:
+  min: 1
+  max: 60
+  prefix: ''
+  suffix: ''
+field_type: integer
