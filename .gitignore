@@ -1,0 +1,7 @@
+/vendor/
+/web
+/html
+/drush
+/core
+.idea
+.DS_Store
